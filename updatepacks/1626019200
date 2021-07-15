@@ -279,5 +279,6 @@
     "383019":{"id":1127610,"cut":60,"us":17.99,"cn":48,"hk":86,"tw":298,"cnt":0,"pln":"irisandgiantdeckbuildingcardgame","crd":"有"},
     "189476":{"id":666800,"cut":75,"us":1.99,"cn":11,"hk":15,"tw":61,"cnt":1,"pln":"solitairecatpirateportrait","crd":"无"},
     "161619":{"id":608660,"cut":80,"us":9.99,"cn":36,"hk":75,"tw":278,"cnt":1,"pln":"psebay","crd":"有"},
-    "43474":{"id":298830,"cut":90,"us":5.99,"cn":25,"hk":59,"tw":178,"cnt":2,"pln":"millenniumiiicrywolf","crd":"有"}
+    "43474":{"id":298830,"cut":90,"us":5.99,"cn":25,"hk":59,"tw":178,"cnt":2,"pln":"millenniumiiicrywolf","crd":"有"},
+    "4071":{"id":46410,"cut":90,"us":9.99,"cn":36,"hk":52,"tw":186,"cnt":18,"pln":"avencastriseofmage","crd":"无"}
 }
