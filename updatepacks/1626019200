@@ -265,5 +265,19 @@
     "12481":{"id":202200,"cut":0,"us":19.99,"cn":70,"hk":89,"tw":318,"cnt":5,"pln":"galacticcivilizationsiiultimateedition","crd":"无"},
     "203230":{"id":704370,"cut":75,"us":1.99,"cn":11,"hk":15,"tw":61,"cnt":0,"pln":"waterpipeline","crd":"无"},
     "231522":{"id":773240,"cut":51,"us":0.99,"cn":6,"hk":6,"tw":22,"cnt":0,"pln":"raceland","crd":"无"},
-    "83880":{"id":416250,"cut":80,"us":5.99,"cn":26,"hk":35,"tw":118,"cnt":0,"pln":"talespc","crd":"有"}
+    "83880":{"id":416250,"cut":80,"us":5.99,"cn":26,"hk":35,"tw":118,"cnt":0,"pln":"talespc","crd":"有"},
+    "193257":{"id":677710,"cut":50,"us":8.99,"cn":35,"hk":48,"tw":172,"cnt":0,"pln":"littleeinar","crd":"无"},
+    "205207":{"id":709870,"cut":90,"us":4.99,"cn":21,"hk":39,"tw":148,"cnt":1,"pln":"westofred","crd":"无"},
+    "109156":{"id":485360,"cut":65,"us":8.99,"cn":35,"hk":48,"tw":172,"cnt":4,"pln":"disgraced","crd":"有"},
+    "245995":{"id":806950,"cut":50,"us":39.99,"cn":116,"hk":176,"tw":568,"cnt":0,"pln":"victoryatseapacific","crd":"无"},
+    "195133":{"id":682910,"cut":51,"us":2.99,"cn":15,"hk":18,"tw":66,"cnt":1,"pln":"nolights","crd":"无"},
+    "192705":{"id":676240,"cut":90,"us":4.99,"cn":21,"hk":39,"tw":148,"cnt":1,"pln":"tauronos","crd":"无"},
+    "450006":{"id":1290170,"cut":30,"us":4.99,"cn":22,"hk":28,"tw":102,"cnt":0,"pln":"titanchaser","crd":"有"},
+    "184820":{"id":655460,"cut":51,"us":0.99,"cn":6,"hk":8,"tw":30,"cnt":4,"pln":"hooliganvasjahalloweenedition","crd":"无"},
+    "223044":{"id":756380,"cut":75,"us":4.99,"cn":22,"hk":28,"tw":102,"cnt":0,"pln":"superbugmanextremeultra","crd":"无"},
+    "466204":{"id":1334000,"cut":75,"us":0.0,"cn":11,"hk":12,"tw":45,"cnt":2,"pln":"wordle","crd":"有"},
+    "383019":{"id":1127610,"cut":60,"us":17.99,"cn":48,"hk":86,"tw":298,"cnt":0,"pln":"irisandgiantdeckbuildingcardgame","crd":"有"},
+    "189476":{"id":666800,"cut":75,"us":1.99,"cn":11,"hk":15,"tw":61,"cnt":1,"pln":"solitairecatpirateportrait","crd":"无"},
+    "161619":{"id":608660,"cut":80,"us":9.99,"cn":36,"hk":75,"tw":278,"cnt":1,"pln":"psebay","crd":"有"},
+    "43474":{"id":298830,"cut":90,"us":5.99,"cn":25,"hk":59,"tw":178,"cnt":2,"pln":"millenniumiiicrywolf","crd":"有"}
 }
